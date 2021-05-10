@@ -1,0 +1,39 @@
+body{
+    background-color: gray;
+  }
+  
+  .principal{
+    align-items: center;
+    text-align: center;
+  }
+  
+  #img-caption{
+    align-items: center;
+    text-align: center;
+  }
+  
+  form{
+    width  : 30%;
+    margin : 10px auto;
+    padding: 5%;
+    border: groove 100px;
+    padding-top:0px;
+    padding-bottom:0px;
+  }
+  
+  #image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 80%;
+    align-items: center;
+    }
+  
+  form label{
+      color:white;
+      padding: 2%;
+  }
+  
+  form input{
+      margin-bottom: 10px;
+  }
